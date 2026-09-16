@@ -4,7 +4,7 @@ A public Grounded DI LLC archive of StormWise / DI Weather Station scans, event 
 
 ## Overview
 
-This repository preserves 20 public artifacts spanning April 17, 2025 through July 31, 2026. The repository itself was created on April 5, 2026; the dates in the collection belong to the individual forecasts, observations, reports, and public-record captures.
+This repository contains 20 tracked files, including this README, and preserves 19 public artifacts spanning April 17, 2025 through July 31, 2026. The repository itself was created on April 5, 2026; the dates in the collection belong to the individual forecasts, observations, reports, and public-record captures.
 
 The collection documents a weather-control vocabulary built around local corridors, temporal windows, visual and radar signals, explicit thresholds, binary decisions, and evidence-preserving work products. It includes both contemporaneous case records and later audit documents. The original StormWise and DI² terminology is retained as part of that history.
 
