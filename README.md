@@ -2,9 +2,13 @@
 
 A public Grounded DI LLC archive of StormWise / DI Weather Station scans, event audits, forecast comparisons, formulas, and dated weather observations.
 
+## Latest packaged release — 27 September 2026
+
+[Download the final Polo / Nolo handoff ZIP](releases/2026-09-27_0816ET/DI_Weather_Station_Polo_Nolo_2026-09-27_0816ET_FINAL.zip). See the [release README](releases/2026-09-27_0816ET/README.md) and [ZIP checksum](releases/2026-09-27_0816ET/SHA256SUMS.txt). The ZIP contains all four supplied PDFs, including both September 27 scans, source records, historical visuals, corrected loading/lineage metadata, and file checksums. The evidence cutoff remains 12:05 UTC; this is an archive packaging release, not a new forecast.
+
 ## Overview
 
-This repository contains 20 tracked files, including this README, and preserves 19 public artifacts spanning April 17, 2025 through July 31, 2026. The repository itself was created on April 5, 2026; the dates in the collection belong to the individual forecasts, observations, reports, and public-record captures.
+This repository preserves weather artifacts from April 2025 onward, including the September 27, 2026 Polo / Nolo handoff release. The repository itself was created on April 5, 2026; the dates in the collection belong to the individual forecasts, observations, reports, and public-record captures.
 
 The collection documents a weather-control vocabulary built around local corridors, temporal windows, visual and radar signals, explicit thresholds, binary decisions, and evidence-preserving work products. It includes both contemporaneous case records and later audit documents. The original StormWise and DI² terminology is retained as part of that history.
 
@@ -73,7 +77,7 @@ For the clearest evidence path, start with:
 
 ## Validation and Testing
 
-No executable source tree, package manifest, or test harness is included in this repository, so there is no repository test command to run. `PASS`, `VERIFIED`, `PARTIALLY VERIFIED`, `SUPPORTED`, and `UNRESOLVED` below are the classifications printed by the individual artifacts. The repository does not independently rerun the weather analyses or supply a sensor-feed replay environment.
+No executable weather source tree or test harness is included in this repository; the handoff ZIP includes an artifact manifest, so there is no repository test command to run. `PASS`, `VERIFIED`, `PARTIALLY VERIFIED`, `SUPPORTED`, and `UNRESOLVED` below are the classifications printed by the individual artifacts. The repository does not independently rerun the weather analyses or supply a sensor-feed replay environment.
 
 The strongest checks are therefore the recorded event-specific checks: the Cherry Hill timing and duration pass, the West Chester April onset window, the January snow-range match, and the endpoint-separated July audits.
 
