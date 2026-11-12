@@ -2,6 +2,12 @@
 
 A public Grounded DI LLC archive of StormWise / DI Weather Station scans, event audits, forecast comparisons, formulas, and dated weather observations.
 
+## November 12, 2026 — West Chester observed arithmetic (machine-readable)
+
+[Inspect the public JSON case extract](cases/2026-11-12-west-chester/observed-arithmetic.v1.json). The extract supplies five KOQN airport observation values and reproducible pressure/wind arithmetic, with a **1:30 PM EST / 18:30 UTC** analytical lock. The recorded three-hour and one-hour altimeter tendencies are **−1.8061** and **−2.0318 hPa/hour**, respectively. The one-hour observed wind change is **+2 kt**, **+33.33%**, and **−10°**. These are station arithmetic results, not on-site measurements or verified tornado detection.
+
+**Release boundary:** This narrow public extract excludes internal research formulas, proprietary parameters, unreviewed third-party imagery, personal photos/video, and confidential redaction materials. No event-specific tornado score, predictive-skill validation, operational forecast, or alert authority is represented. The underlying case materials classify the source as a secondary archive of primary METAR observations; this update does not independently authenticate the original archive.
+
 ## Latest packaged release — 27 September 2026
 
 [Download the final Polo / Nolo handoff ZIP](releases/2026-09-27_0816ET/DI_Weather_Station_Polo_Nolo_2026-09-27_0816ET_FINAL.zip). See the [release README](releases/2026-09-27_0816ET/README.md) and [ZIP checksum](releases/2026-09-27_0816ET/SHA256SUMS.txt). The ZIP contains all four supplied PDFs, including both September 27 scans, source records, historical visuals, corrected loading/lineage metadata, and file checksums. The evidence cutoff remains 12:05 UTC; this is an archive packaging release, not a new forecast.
