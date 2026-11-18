@@ -1,6 +1,6 @@
 # DI Weather Station — Deterministic Weather and Corridor Analysis Record
 
-A public Grounded DI LLC archive of StormWise / DI Weather Station scans, event audits, forecast comparisons, formulas, and dated weather observations.
+StormWise and the DI Weather Station record local observations, time-window forecasts, event audits, formula proposals, and forecast-to-observation comparisons.
 
 ## November 12, 2026 — West Chester observed arithmetic (machine-readable)
 
@@ -18,7 +18,7 @@ This repository preserves weather artifacts from April 2025 onward, including th
 
 The collection documents a weather-control vocabulary built around local corridors, temporal windows, visual and radar signals, explicit thresholds, binary decisions, and evidence-preserving work products. It includes both contemporaneous case records and later audit documents. The original StormWise and DI² terminology is retained as part of that history.
 
-This is an artifact archive, not the complete weather runtime. It gives a reviewer a dated record of the recorded control paths, their outputs, and the boundaries each artifact states.
+The dated artifacts let reviewers follow forecast endpoints, observations, control decisions, and the recorded outcome for each case.
 
 ## Why It Matters
 
@@ -89,7 +89,7 @@ The strongest checks are therefore the recorded event-specific checks: the Cherr
 
 ## Commercial and Integration Context
 
-The archive can support technical evaluation or a proof-of-concept discussion around localized weather-event monitoring, corridor-specific risk decisions, forecast quality review, and evidence-preserving operational reports. Any production integration would require a separate runtime, data-source agreements, validation plan, and domain review.
+The archive supports technical evaluation of localized weather monitoring, corridor risk decisions, forecast quality, and evidence-preserving reports. Production integration requires the private runtime, data-source agreements, validation, and domain review.
 
 Evaluation, licensing, integration, and research inquiries can be opened through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
@@ -105,7 +105,7 @@ No open-source license is currently provided in this repository. Copyright and o
 
 ## Status
 
-The repository is an expanding public artifact archive. Its strongest evidence consists of dated event records and sealed work products; it should not be read as a claim that a complete production weather service is distributed here.
+The expanding public archive centers on dated event records and sealed work products.
 
 ## Contact
 
